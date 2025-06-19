@@ -1,3 +1,5 @@
+# frontendd/.dockerignore
+
 node_modules
 .env
 npm-debug.log
